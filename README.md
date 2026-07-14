@@ -91,7 +91,7 @@ Amazon-RDS-EC2-Project
 Add screenshots in the `screenshots` folder and display them like this:
 
 ```markdown
- EC2 Instance
+ ### EC2 Instance
 
 <img width="1920" height="1080" alt="ec2-launch png" src="https://github.com/user-attachments/assets/4647cdc2-04f7-4dce-b361-9aacd25c32ff" />
 
