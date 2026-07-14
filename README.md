@@ -93,15 +93,18 @@ Add screenshots in the `screenshots` folder and display them like this:
 ```markdown
 ### EC2 Instance
 
-![EC2](screenshots/ec2-launch.png)
+<img width="1920" height="1080" alt="ec2-launch png" src="https://github.com/user-attachments/assets/4647cdc2-04f7-4dce-b361-9aacd25c32ff" />
+
 
 ### RDS Instance
 
-![RDS](screenshots/rds-create.png)
+<img width="1920" height="1080" alt="rds-create png" src="https://github.com/user-attachments/assets/dcc5f92a-d3c8-43c1-baa6-69fb4c4ba73b" />
+
 
 ### MySQL Connected
 
-![MySQL](screenshots/mysql-connected.png)
+<img width="1130" height="608" alt="mysql-connected png" src="https://github.com/user-attachments/assets/f0bfd83e-239d-4d1e-b0ef-55d01440f14a" />
+
 ```
 
 ---
